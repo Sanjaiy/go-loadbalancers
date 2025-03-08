@@ -11,6 +11,8 @@ Supports **static** and **dynamic** algorithms to efficiently distribute traffic
   - 🔄 Sticky Round Robin
   - ⚖️ Weighted Round Robin
   - 🔢 Hash-based Load Balancing
+    - Ip Hash
+    - Consistent IP Hash 
 
 - **Dynamic Algorithms**
   - 🗽 Least Connections
